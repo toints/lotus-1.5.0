@@ -161,5 +161,3 @@ replace github.com/filecoin-project/filecoin-ffi => ./extern/filecoin-ffi
 replace github.com/filecoin-project/test-vectors => ./extern/test-vectors
 
 replace github.com/moran666666/sector-counter => ./extern/sector-counter
-
-replace github.com/filecoin-project/go-jsonrpc => ./extern/go-jsonrpc
